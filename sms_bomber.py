@@ -64,4 +64,4 @@ def send(target, counter, delay):
 
 banner()
 print("")
-send(input("Enter Target Number :  "), input("Enter Number of Messages: "), input("Enter Delay time (in seconds): "))
+send(input("Enter Target Number : 8136955484 "), input("Enter Number of Messages:100 "), input("Enter Delay time (in seconds):5 "))
